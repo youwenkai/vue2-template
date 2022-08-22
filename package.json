@@ -1,0 +1,32 @@
+{
+  "name": "vue2-template",
+  "version": "1.0.0",
+  "description": "vue2模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youwenkai/vue2-template.git"
+  },
+  "keywords": [
+    "vue2"
+  ],
+  "author": "wkyou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youwenkai/vue2-template/issues"
+  },
+  "homepage": "https://github.com/youwenkai/vue2-template#readme",
+  "dependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  }
+}
